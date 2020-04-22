@@ -1,4 +1,4 @@
-# peloton_shadow
+# peloshadow
 
 Using this as a scratch pad, and happy to allow others to build on it, but more using it to make my life easier, and not really intending on supporting this as a real project/library at this time.
 
